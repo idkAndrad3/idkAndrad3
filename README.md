@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some exciting college projects.<br>🌱 I’m learning more about cybersecurity and exploring new programming languages.<br>💬 Feel free to ask me about tech, fitness, or anything I’m learning!<br>⚡ Fun fact: I love lifting heavy weights and recently got into the world of running.
+🔭 I’m currently working on some exciting college projects.<br>🌱 I’m learning more about cybersecurity and exploring new programming languages.<br>💬 Feel free to ask me about tech, fitness, or anything I’m learning!<br>⚡ Fun fact: I love lifting heavy weights..
 
 
 # 💻 Tech Stack:
